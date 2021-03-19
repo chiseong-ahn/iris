@@ -1,0 +1,15 @@
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '홍길동');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '김양반');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '박사장');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '이대리');
+INSERT INTO user(email, name) values ('csahn@gmail.com', '안치성');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '정사원');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '한과장');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '김대리');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '오과장');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '곽차장');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '최사원');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '천주임');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '방대리');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '지과장');
+INSERT INTO user(email, name) values ('tkdgusl94@gmail.com', '추이사');
